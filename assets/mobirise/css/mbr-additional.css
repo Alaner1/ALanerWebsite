@@ -1151,7 +1151,7 @@ a {
 .cid-sIMGiuw9Sn {
   padding-top: 0rem;
   padding-bottom: 0rem;
-  background-color: #ffe161;
+  background-color: #bed3f9;
 }
 @media (min-width: 991px) {
   .cid-sIMGiuw9Sn .container-fluid {
@@ -1193,4 +1193,10 @@ a {
 }
 .cid-sIMGiuw9Sn .justify-content-center {
   align-items: center;
+}
+.cid-sIN8lENSq4 {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #232323;
+  overflow: hidden;
 }
